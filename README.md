@@ -12,6 +12,8 @@ This example uses Cocoapods for dependency management, but you can use your pref
 
 - [Steps to add playground support to your project](#steps-to-add-playground-support-to-your-project)
 - [Steps to try the example project out](#steps-to-try-the-example-project-out)
+- [Workflows](#workflows)
+- [Handling dependency issues](#handling-dependency-issues)
 - [Tips and tricks](#tips-and-tricks)
 - [Known issues](#known-issues)
 - [Troubleshooting](#troubleshooting)
