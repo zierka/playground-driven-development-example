@@ -1,0 +1,6 @@
+framework module Pods_playground_driven_development {
+  umbrella header "Pods-playground-driven-development-umbrella.h"
+
+  export *
+  module * { export * }
+}
